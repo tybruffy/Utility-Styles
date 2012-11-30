@@ -25,22 +25,22 @@ input.error[type=text]{border:1px solid #ff0000;background:#ffffff;}
 .inline-label>label{display:inline-block;margin-right:5px;}
 .inline-label>input{width:50%;}
 label.stacked{font-weight:normal;margin:10px 0 ;}
-.form1{width:NaNpx;}
-.form2{width:NaNpx;}
-.form3{width:NaNpx;}
-.form4{width:NaNpx;}
-.form5{width:NaNpx;}
-.form6{width:NaNpx;}
-.form7{width:NaNpx;}
-.form8{width:NaNpx;}
-.form9{width:NaNpx;}
-.form10{width:NaNpx;}
-.form11{width:NaNpx;}
-.form12{width:NaNpx;}
-.form13{width:NaNpx;}
-.form14{width:NaNpx;}
-.form15{width:NaNpx;}
-.form16{width:NaNpx;}
+.form1{width:45px;}
+.form2{width:105px;}
+.form3{width:165px;}
+.form4{width:225px;}
+.form5{width:285px;}
+.form6{width:345px;}
+.form7{width:405px;}
+.form8{width:465px;}
+.form9{width:525px;}
+.form10{width:585px;}
+.form11{width:645px;}
+.form12{width:705px;}
+.form13{width:765px;}
+.form14{width:825px;}
+.form15{width:885px;}
+.form16{width:945px;}
 .auto-width{width:auto;}
 .modal-overlay{width:100%;height:100%;position:fixed;z-index:8888;background:#000000;background:rgba(0, 0, 0, 0.75);}
 .modal{width:50%;height:75%;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;*behavior:url(@{behaviors-url}/boxsizing.htc );padding:25px;overflow:auto;position:fixed;top:12.5%;left:25%;z-index:9999;background:#e5e5e5;text-align:left;font-size:12px;}

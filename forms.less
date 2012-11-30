@@ -209,5 +209,6 @@
 	.auto-width { width: auto; }
 
 	.get-width( @columns ) {
-		width: (@grid-width*@columns) + @field-spacing*(@columns -1);
+		@value: ( (@grid-width * @columns) + @field-spacing * (@columns - 1) );
+		width: ~"@{value}px";
 	}
